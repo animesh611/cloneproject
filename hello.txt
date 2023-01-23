@@ -1,3 +1,5 @@
 this is a txt file
 now it will be commited
+commit to the next changes
+next3rd commit
 
